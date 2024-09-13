@@ -1,1 +1,1 @@
-# calculator
+#python GUI calculator
